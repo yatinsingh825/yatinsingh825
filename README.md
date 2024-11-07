@@ -38,19 +38,27 @@
   </table>
 </div>
 
-### 💻 My Coding Stats
+### 💻 GitHub Activity Stats
 
 <div align="center">
   <table>
     <tr>
-      <td>
-        <img src="https://img.shields.io/badge/Total%20Contributions-87-blue?style=for-the-badge&logo=github" alt="Total Contributions"/>
+      <th>Total Contributions</th>
+      <th>Current Streak</th>
+      <th>Longest Streak</th>
+    </tr>
+    <tr>
+      <td align="center">
+        <h3>1</h3>
+        <p>Started Today</p>
       </td>
-      <td>
-        <img src="https://img.shields.io/badge/Current%20Streak-0%20Days-orange?style=for-the-badge&logo=github" alt="Current Streak"/>
+      <td align="center">
+        <h3>1</h3>
+        <p>Current</p>
       </td>
-      <td>
-        <img src="https://img.shields.io/badge/Longest%20Streak-4%20Days-green?style=for-the-badge&logo=github" alt="Longest Streak"/>
+      <td align="center">
+        <h3>1</h3>
+        <p>Today</p>
       </td>
     </tr>
   </table>
@@ -80,6 +88,30 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yatinsingh825&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1" />
 </div>
+
+### 🌟 About Me
+
+```kotlin
+object Profile {
+    val name = "Yatin Singh"
+    val role = "Android Developer"
+    val education = "B.E. AIML Student"
+    val location = "Chandigarh University"
+    
+    val skills = listOf(
+        "Kotlin", "Java",
+        "Android Development",
+        "Jetpack Compose"
+    )
+    
+    val interests = listOf(
+        "Mobile Development",
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Problem Solving"
+    )
+}
+```
 
 ### 🤝 Connect with Me
 
